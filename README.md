@@ -1,6 +1,6 @@
-# Foundation libsass template
+# Indie Stitch Base Template
 
-This is a template to start your own project that uses Grunt and libsass!
+This is the starting point for Indie Stitch themes.  Based on Zurb Foundation 5.
 
 ## Requirements
 
